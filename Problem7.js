@@ -4,11 +4,11 @@ var map = array1.map(function(x){
 
 if((typeof x)=='number')
   {
-  return x * 2
+    return x * 2
   }
 else
   {
-	return x;
+    return x;
   }
 
 });
