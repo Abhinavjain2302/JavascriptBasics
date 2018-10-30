@@ -7,9 +7,9 @@ var result=[];
 
 function join(array1,array2)
 {
-  result=array1.concat(array2);
+   result=array1.concat(array2);
 
-  console.log(result);
+   console.log(result);
 
 }
 
