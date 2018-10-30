@@ -13,7 +13,7 @@ function join(array1,array2,n)
 	     {
 			result[i]=array1[i];
 
-		 }
+	     }
 	}
 	if(result.length==array1.length)
 	{
