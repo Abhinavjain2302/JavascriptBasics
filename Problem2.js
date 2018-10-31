@@ -1,11 +1,7 @@
-
-function print( i, j){
-
-for(var n=i;n<=j;n++)
-  {
-	console.log(n);
+function print(i, j) {
+  for (var n = i; n <= j; n++) {
+    console.log(n);
   }
 
 }
-
-print(1,100);
+print(1, 100);
